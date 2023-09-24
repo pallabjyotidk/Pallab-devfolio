@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Pallabjyoti Deka",
-  title: "Welcome all 🎊",
+  title: "Hi. I am Pallab 🎊",
   subTitle: emoji(
     "A passionate Computer Vision Researcher 🚀"
   ),
@@ -129,7 +129,7 @@ const workExperiences = {
     {
       role: "Junior Research Fellow",
       company: "IIT Kharagpur",
-      companylogo: require("./assets/images/iitkgp_logo.png"),
+      companylogo: require("./assets/images/iitkgp_logo_2.png"),
       date: "March 2023 – Present",
       desc: "Working on the project titled - \"Deep Learning based 3D Digital Restoration of Indian Archaeological Artefacts\"."
       // descBullets: [
