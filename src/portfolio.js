@@ -45,7 +45,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "ABOUT ME...",
+  title: "ABOUT ME",
   subTitle: "A COMPUTER VISION RESEARCHER NOW, WAS A GOLANG BACKEND DEVELOPER ONCE",
   skills: [
     emoji("⚡ Currently developing an efficient 3D Shape Completion algorithm for Archaeological Artifacts"),
@@ -58,20 +58,16 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  // softwareSkills: [
-  //   {
-  //     skillName: "python",
-  //     fontAwesomeClassname: "fab fa-python"
-  //   },
-  //   {
-  //     skillName: "golang",
-  //     fontAwesomeClassname: "fab fa-golang"
-  //   },
-  //   {
-  //     skillName: "docker",
-  //     fontAwesomeClassname: "fab fa-docker"
-  //   }
-  // ],
+  softwareSkills: [
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    }
+  ],
   display: true // Set false to hide this section, defaults to true
 };
 
