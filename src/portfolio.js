@@ -45,17 +45,14 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "WHAT I DID & WHAT I DO NOW",
-  subTitle: "WAS A GOLANG BACKEND DEVELOPER ONCE",
+  title: "WHAT I DO & WHAT I DID EARLIER",
+  subTitle: "A COMPUTER VISION RESEARCHER NOW, WAS A GOLANG BACKEND DEVELOPER ONCE",
   skills: [
+    emoji("⚡ Currently developing an efficient 3D Shape Completion algorithm for Archaeological Artifacts"),
+    emoji("⚡ Proficient in PyTorch, Open3D, Blender"),
     emoji("⚡ Development of Go microservices for the product IntelliServices by HCL Software"),
     emoji("⚡ Integration of NLP-based Python microservice with Go and ElasticSearch for high performance user queries"),
     emoji("⚡ Professional experience in DevOps tech-stacks - Docker, Kubernetes, FluxCD")
-  ],
-  subTitle: "A COMPUTER VISION RESEARCHER NOW",
-  skills: [
-    emoji("⚡ Currently developing an efficient 3D Shape Completion algorithm for Archaeological Artifacts"),
-    emoji("⚡ Proficient in PyTorch, Open3D, Blender")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
